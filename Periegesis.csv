@@ -5,44 +5,41 @@ Sunium,LOC,2
 Island of Patroclus,LOC,2
 Antigonus,LOC,26
 Magnesia,LOC,1,39.5066786008,22.920519021
-Thermodon,LOC,1
+Thermodon,LOC,1,41.194000,36.942000
 Melpomenus,LOC,1
 Earth,LOC,9
 Phaethon,LOC,1
-Europe,LOC,3
-Ionian Sea,LOC,2
+Europe,LOC,3,41.241813125,27.6614975
+Ionian Sea,LOC,2,
 Lamian gulf,LOC,1
-Asia,LOC,14
+Asia,LOC,2,438.4608143183,27.7758818736
 Pessinus,LOC,1
-Meda,LOC,1
-Pandion,LOC,5
-Acropolis,LOC,11
+Meda,LOC,1,13.615017,43.693538
+Pandion,LOC,5,9.65385878536,78.1935899466
+Acropolis,LOC,11,37.9716470903,23.7264384999
 Cestrinus,LOC,2
 Mercy,LOC,1
-the Olympian Zeus,LOC,1
-Acherusia,LOC,1
-The Gardens,LOC,1
-Gardens,LOC,1
-Eridanus,LOC,2
+Acherusia,LOC,1,39.25, 20.75
+The Gardens,LOC,2
+Eridanus,LOC,2,44.9972897676, 9.96512278141
 the North Wind,LOC,2
-ASIA,LOC,1
 South,LOC,1
-Athenian Acropolis,LOC,3
+Athenian Acropolis,LOC,3,37.9716470903,23.7264384999
 Epicharinus,LOC,1
 Mount Sipylus,LOC,1
-Io,LOC,2
 the Greek Sea,LOC,1
-Marathon,LOC,1
+Marathon,LOC,1,38.1465515,23.970146
 Anteros,LOC,1
-Red Sea,LOC,1
-Nile,LOC,4
+Red Sea,LOC,1,19.0,39.5
+Nile,LOC,4,16.6582979509,30.8044148196
 Atlantes,LOC,1
 Mount Atlas,LOC,1
 Chalcinus,LOC,1
 Ceryx,LOC,1
-Cithaeron,LOC,3
+Cithaeron,LOC,3,38.1842024,23.2491897
 Eteocles,LOC,1
 Theocosmus,LOC,2
 Echemus,LOC,1
 Mount Gerania,LOC,1
 Molurian Rock,LOC,1
+Greece,LOC,11
